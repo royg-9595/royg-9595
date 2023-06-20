@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayanth Roy G
 - 👀 I’m interested in lEarning
 - 🌱 I’m currently pursuing B.Tech(CS)
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me jayanthroyg9595@gmail.com.
 
 <!---
